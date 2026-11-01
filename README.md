@@ -3,7 +3,7 @@
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
-- Name: ODUFUWA DOMINION 
+- Name: ODUFUWA DOMINION
 - Matric: 25/17290
 - Programme: Computer Science
 - Course Code: COS 201
